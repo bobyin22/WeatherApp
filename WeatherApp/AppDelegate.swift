@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  WeatherApp
 //
-//  Created by 邱慧珊 on 9/27/25.
+//  Created by Bob Yin on 9/27/25.
 //
 
 import UIKit
